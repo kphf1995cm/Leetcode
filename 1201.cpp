@@ -4,6 +4,7 @@
  *  1201. Ugly Number III
  */
 
+/*
 # include<iostream>
 using namespace std;
 
@@ -64,4 +65,4 @@ int main() {
 	Solution s;
 	cout<<s.nthUglyNumber(1000000000,2,217983653,336916467)<<endl;
 	return 0;
-}
+}*/
